@@ -1,0 +1,2710 @@
+[
+  {
+    "@name": "WOOD",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "T1_WOOD"
+      },
+      {
+        "@tier": "2",
+        "@item": "T2_WOOD"
+      },
+      {
+        "@tier": "3",
+        "@item": "T3_WOOD"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_WOOD"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_WOOD"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_GIANTTREE",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "T1_WOOD"
+      },
+      {
+        "@tier": "2",
+        "@item": "T2_WOOD"
+      },
+      {
+        "@tier": "3",
+        "@item": "T3_WOOD"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_WOOD"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_WOOD"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_CRITTER",
+    "Tier": [
+      {
+        "@tier": "3",
+        "@item": "T3_WOOD"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_WOOD"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_WOOD"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_GUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_MINIGUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_TREASURE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_WOOD"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_WOOD"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "T1_ROCK"
+      },
+      {
+        "@tier": "2",
+        "@item": "T2_ROCK"
+      },
+      {
+        "@tier": "3",
+        "@item": "T3_ROCK"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_ROCK"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ROCK"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_CRITTER",
+    "Tier": [
+      {
+        "@tier": "3",
+        "@item": "T3_ROCK"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_ROCK"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ROCK"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_CRITTER_RANDOM_DUNGEON",
+    "Tier": [
+      {
+        "@tier": "3",
+        "@item": "T3_ROCK"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_GUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_MINIGUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_TREASURE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_ROCK"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ROCK"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER",
+    "Tier": [
+      {
+        "@tier": "2",
+        "@item": "T2_FIBER"
+      },
+      {
+        "@tier": "3",
+        "@item": "T3_FIBER"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_FIBER"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_FIBER"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_FIBER"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_CRITTER",
+    "Tier": [
+      {
+        "@tier": "3",
+        "@item": "T3_FIBER"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_FIBER"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_FIBER"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_FIBER"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_GUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_MINIGUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_TREASURE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_FIBER"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_FIBER"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_FIBER"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "T1_HIDE"
+      },
+      {
+        "@tier": "2",
+        "@item": "T2_HIDE"
+      },
+      {
+        "@tier": "3",
+        "@item": "T3_HIDE"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_HIDE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_HIDE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_HIDE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_FOREST_02",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_CRITTER",
+    "Tier": [
+      {
+        "@tier": "3",
+        "@item": "T3_HIDE"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_HIDE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_HIDE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_HIDE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_GUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_MINIGUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_TREASURE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_HIDE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_HIDE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_HIDE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE",
+    "Tier": [
+      {
+        "@tier": "2",
+        "@item": "T2_ORE"
+      },
+      {
+        "@tier": "3",
+        "@item": "T3_ORE"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_ORE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ORE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ORE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_CRITTER",
+    "Tier": [
+      {
+        "@tier": "3",
+        "@item": "T3_ORE"
+      },
+      {
+        "@tier": "4",
+        "@item": "T4_ORE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ORE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ORE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_GUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_MINIGUARDIAN",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_TREASURE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_ORE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ORE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ORE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_CRITTER_ROADS",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_WOOD"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_WOOD"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_CRITTER_ROADS_VETERAN",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_WOOD"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_WOOD"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_CRITTER_ROADS_ELITE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_WOOD"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_WOOD"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_GUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "WOOD_MINIGUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_WOOD"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_WOOD"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_WOOD"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_CRITTER_ROADS",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_ROCK"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ROCK"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_CRITTER_ROADS_VETERAN",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_ROCK"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ROCK"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_CRITTER_ROADS_ELITE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_ROCK"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ROCK"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_GUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "ROCK_MINIGUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_ROCK"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ROCK"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ROCK"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_CRITTER_ROADS",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_FIBER"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_FIBER"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_FIBER"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_CRITTER_ROADS_VETERAN",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_FIBER"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_FIBER"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_FIBER"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_CRITTER_ROADS_ELITE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_FIBER"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_FIBER"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_FIBER"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_GUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_FIBER"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "FIBER_MINIGUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_FIBER"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_FIBER"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_FIBER"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_CRITTER_ROADS",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_HIDE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_HIDE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_HIDE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_CRITTER_ROADS_VETERAN",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_HIDE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_HIDE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_HIDE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_CRITTER_ROADS_ELITE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_HIDE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_HIDE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_HIDE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_GUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_HIDE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "HIDE_MINIGUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_HIDE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_HIDE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_CRITTER_ROADS",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_ORE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ORE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ORE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_CRITTER_ROADS_VETERAN",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_ORE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ORE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ORE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_CRITTER_ROADS_ELITE",
+    "Tier": [
+      {
+        "@tier": "4",
+        "@item": "T4_ORE"
+      },
+      {
+        "@tier": "5",
+        "@item": "T5_ORE"
+      },
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ORE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_GUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ORE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "ORE_MINIGUARDIAN_ROADS",
+    "Tier": [
+      {
+        "@tier": "6",
+        "@item": "T6_ORE"
+      },
+      {
+        "@tier": "7",
+        "@item": "T7_ORE"
+      },
+      {
+        "@tier": "8",
+        "@item": "T8_ORE"
+      }
+    ]
+  },
+  {
+    "@name": "DEADRAT",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "T1_HIDE"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_NODE",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_NODE_RICH",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_STANDARD_TRASH",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_VETERAN_TRASH",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_ELITE_TRASH",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_ROAMING",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_ROAMING_MINIBOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_ROAMING_BOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_STANDARD",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_VETERAN",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_ELITE",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_STANDARD_MINIBOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_VETERAN_MINIBOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_ELITE_MINIBOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_STANDARD_BOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_VETERAN_BOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_ELITE_BOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_STANDARD_TRASH",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_STANDARD",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_STANDARD_STANDARD",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_STANDARD_UNCOMMON",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_STANDARD_RARE",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_STANDARD_LEGENDARY",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_VETERAN_TRASH",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_VETERAN",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_VETERAN_STANDARD",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_VETERAN_UNCOMMON",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_VETERAN_RARE",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_VETERAN_LEGENDARY",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_ELITE_TRASH",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_ELITE",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_ELITE_STANDARD",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_ELITE_UNCOMMON",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_ELITE_RARE",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_RD_ELITE_LEGENDARY",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_CHEST_STANDARD",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_CHEST_STANDARD_TRASH",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_CHEST_VETERAN",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_CHEST_DEMON",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "CHEST_EXP_SILVERCOINS_LOOT_STANDARD",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "CHEST_EXP_SILVERCOINS_LOOT_VETERAN",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  },
+  {
+    "@name": "SILVERCOINS_LOOT_SARCOPHAGUS_STANDARD_MINIBOSS",
+    "Tier": [
+      {
+        "@tier": "1",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "2",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "3",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "4",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "5",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "6",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "7",
+        "@item": "SILVERCOINS"
+      },
+      {
+        "@tier": "8",
+        "@item": "SILVERCOINS"
+      }
+    ]
+  }
+]
